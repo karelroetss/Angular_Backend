@@ -1,0 +1,16 @@
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\AngularAPI.deps.json
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\AngularAPI.runtimeconfig.json
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\AngularAPI.runtimeconfig.dev.json
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\AngularAPI.dll
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\bin\Debug\netcoreapp2.2\AngularAPI.pdb
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.RazorAssemblyInfo.cache
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.RazorAssemblyInfo.cs
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.AssemblyInfoInputs.cache
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.AssemblyInfo.cs
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.RazorTargetAssemblyInfo.cache
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.dll
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.pdb
+C:\Users\karel\Documents\3ITF\Angular\Herexamen\AngularAPI\AngularAPI\obj\Debug\netcoreapp2.2\AngularAPI.csprojAssemblyReference.cache
